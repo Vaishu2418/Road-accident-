@@ -1,0 +1,6 @@
+Weather_Condition,Road_Condition,Vehicle_Speed,Visibility,Accident_Severity
+Clear,Dry,60,10,0
+Rainy,Wet,45,5,1
+Fog,Wet,30,2,1
+Clear,Dry,70,12,0
+Snow,Snow,25,1,2
